@@ -11079,7 +11079,7 @@ a:hover {
     -ms-flex-align: center;
         align-items: center;
     text-transform: uppercase;
-    padding: 15px 17px;
+    padding: 15px;
     border-radius: 7px;
     line-height: 1;
     letter-spacing: 0.16px;
@@ -11146,7 +11146,7 @@ a:hover {
 .overview .store-buttons {
   margin-top: 50px; }
   .overview .store-buttons .button {
-    padding: 15px 20px;
+    padding: 15px;
     color: #414040;
     border-color: #414040;
     margin-bottom: 30px; }
